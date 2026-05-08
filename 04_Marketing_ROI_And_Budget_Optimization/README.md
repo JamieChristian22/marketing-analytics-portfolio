@@ -2,20 +2,18 @@
 
 <div align="center">
 
-# 📊 Marketing ROI & Budget Optimization Dashboard
+# 📊 Marketing Performance Dashboard  
+### Ads ROI • Revenue Impact • SEM Performance • Campaign Optimization
 
-### Marketing Analytics • ROI Analysis • Budget Allocation • SEO & SEM Performance
-
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Python](https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Excel](https://img.shields.io/badge/Excel-KPI%20Reporting-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![SEO](https://img.shields.io/badge/SEO-Optimization-34A853?style=for-the-badge)]()
-[![SEM](https://img.shields.io/badge/SEM-Paid%20Marketing-4285F4?style=for-the-badge)]()
+[![Tableau](https://img.shields.io/badge/Tableau-Dashboard-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 [![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-red?style=for-the-badge)]()
-[![ROI Analysis](https://img.shields.io/badge/ROI-Optimization-success?style=for-the-badge)]()
+[![SEM](https://img.shields.io/badge/SEM-Paid%20Ads-4285F4?style=for-the-badge)]()
+[![ROI](https://img.shields.io/badge/ROI-Revenue%20Impact-success?style=for-the-badge)]()
+[![KPI Dashboard](https://img.shields.io/badge/KPI-Dashboard-blue?style=for-the-badge)]()
+[![Excel](https://img.shields.io/badge/Excel-Reporting-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)]()
+[![SQL](https://img.shields.io/badge/SQL-Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
+[![Python](https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
+[![R](https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)]()
 
 </div>
 
@@ -23,61 +21,110 @@
 
 # 📌 Project Overview
 
-This project simulates a real-world **marketing ROI and budget optimization environment** focused on:
+This project analyzes **marketing ad performance, ROI, revenue impact, and campaign efficiency** using a dashboard focused on clicks, conversion rate, conversions, cost, impressions, CPC, CTR, profit/loss, revenue, and sales amount.
 
-- Marketing spend analysis
-- ROI and ROAS optimization
-- Campaign performance tracking
-- SEO and SEM analysis
-- Customer acquisition efficiency
-- Budget allocation strategy
-- Revenue attribution
-- Executive KPI reporting
-
-The dashboard helps marketing and executive teams understand how budget allocation impacts revenue performance and which channels generate the strongest return on investment.
+The dashboard helps marketing teams understand which ad categories, devices, and monthly campaign periods are driving the strongest performance.
 
 ---
 
 # 🎯 Business Problem
 
-Marketing leadership lacked visibility into:
-- which campaigns generated the strongest ROI,
-- where marketing spend was being wasted,
-- and how SEO and SEM performance impacted revenue growth.
+Marketing leadership needed better visibility into:
 
-The goal of this project was to create a centralized dashboard for monitoring marketing efficiency and improving budget allocation decisions.
+- ad spend efficiency,
+- click performance,
+- campaign revenue impact,
+- conversion performance,
+- device-level engagement,
+- and category-level ad performance.
+
+The goal was to create a dashboard that helps determine which paid marketing campaigns are producing strong results and which areas need optimization.
 
 ---
 
 # 📊 Dashboard Preview
 
-## Executive ROI Optimization Dashboard
-
-![Dashboard Preview](09_Dashboard_Previews/marketing_roi_dashboard_preview.png)
+![Marketing Performance Dashboard](09_Dashboard_Previews/04_Marketing_ROI_And_Budget_Optimization.png)
 
 ---
 
-# 📈 Key KPIs
+# 📈 Key Dashboard Metrics
 
-| KPI | Description |
-|---|---|
-| ROI | Return on Investment |
-| ROAS | Return on Ad Spend |
-| CPC | Cost per Click |
-| CPA | Cost per Acquisition |
-| Revenue | Revenue generated from campaigns |
-| Spend | Marketing budget allocation |
-| Conversion Rate | Customer conversion performance |
+| Metric | Value |
+|---|---:|
+| Clicks | 789,519 |
+| Conversion Rate | 14 |
+| Conversions | 82,048 |
+| Cost | 558,270 |
+| Impressions | 2,358,345 |
+| CPC | 149 |
+| CTR | 52 |
+| P&L | -66,042 |
+| Revenue | 479,181 |
+| Sale Amount | 10,392,778 |
 
 ---
 
 # 🧠 Business Insights
 
-- Email campaigns generated the highest ROI performance.
-- Paid social campaigns produced strong traffic but weaker conversion efficiency.
-- Organic search reduced long-term customer acquisition cost.
-- SEM campaigns with branded keywords achieved the highest ROAS.
-- Certain campaigns demonstrated rising spend without proportional revenue growth.
+- Mobile generated significantly more clicks than desktop.
+- November produced the strongest click volume.
+- Coupon ads drove the highest click activity.
+- Promo ads were the second strongest category.
+- Discount, Sale, Offer, Competitor, Free Shipping, and Black Friday/Cyber Monday campaigns had much lower click contribution.
+- Despite strong click volume, P&L was negative, showing that campaign cost efficiency needs improvement.
+- The dashboard suggests the business should evaluate whether high-click campaigns are converting profitably.
+
+---
+
+# 📊 Dashboard Views
+
+## Clicks by Month
+Tracks monthly click performance from July through November.
+
+## Clicks by Device
+Compares desktop and mobile click behavior.
+
+## Clicks by Category Ads
+Ranks ad categories by click contribution.
+
+## Select Parameter
+Allows users to switch between key measures such as:
+
+- Clicks
+- Conversion Rate
+- Conversions
+- Cost
+- CPC
+- CTR
+- P&L
+- Impressions
+- Revenue
+- Sale Amount
+
+---
+
+# 🚀 Business Recommendations
+
+## Campaign Optimization
+- Reduce spend on campaigns with weak revenue or negative profit contribution.
+- Continue monitoring Coupon and Promo campaigns since they drive the highest clicks.
+- Test whether high-click campaigns also produce high conversions and revenue.
+
+## SEM Optimization
+- Improve CPC efficiency by reducing bids on low-converting ad categories.
+- Separate high-intent campaigns from low-intent awareness campaigns.
+- Reallocate spend toward campaigns with stronger conversion and revenue performance.
+
+## Device Strategy
+- Prioritize mobile campaign optimization because mobile drives the majority of clicks.
+- Improve mobile landing pages to increase conversion rate.
+- Test mobile-first ad copy and checkout flows.
+
+## Revenue Growth
+- Track revenue and P&L alongside clicks to avoid optimizing only for traffic.
+- Use conversion rate and revenue per click to identify profitable campaigns.
+- Build a weekly performance review process for ads ROI and budget decisions.
 
 ---
 
@@ -102,18 +149,6 @@ The goal of this project was to create a centralized dashboard for monitoring ma
 
 # 📁 Dataset Information
 
-## Dataset Includes
-- Campaign performance data
-- Marketing spend
-- Revenue attribution
-- SEO keyword performance
-- SEM campaign metrics
-- CPC and CPA tracking
-- ROAS calculations
-- Customer acquisition metrics
-
-## Dataset Files
-
 ```text
 02_Datasets/
 │
@@ -122,123 +157,85 @@ The goal of this project was to create a centralized dashboard for monitoring ma
 └── README.md
 ```
 
+The dataset supports analysis of:
+
+- clicks
+- impressions
+- conversions
+- cost
+- CPC
+- CTR
+- revenue
+- sales amount
+- ad category
+- device
+- month
+
 ---
 
 # 💻 SQL Analysis
 
-## SQL Focus Areas
-- ROI reporting
-- Budget allocation analysis
-- Campaign aggregation
-- Revenue attribution
-- SEO and SEM performance reporting
-
-## Example SQL Analysis
-
 ```sql
 SELECT
-    Channel,
-    SUM(Spend) AS Total_Spend,
+    Ad_Category,
+    SUM(Clicks) AS Total_Clicks,
+    SUM(Conversions) AS Total_Conversions,
     SUM(Revenue) AS Total_Revenue,
-    AVG(ROAS) AS Avg_ROAS,
-    AVG(ROI) AS Avg_ROI
-FROM marketing_roi_data
-GROUP BY Channel
-ORDER BY Avg_ROI DESC;
+    SUM(Cost) AS Total_Cost,
+    SUM(Revenue) - SUM(Cost) AS Profit_Loss
+FROM marketing_ads
+GROUP BY Ad_Category
+ORDER BY Total_Clicks DESC;
 ```
 
 ---
 
 # 🐍 Python Analytics
 
-## Python Libraries Used
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- plotly
+Python can be used to:
 
-## Python Analysis Focus
-- Marketing budget analysis
-- ROI trend reporting
-- Campaign performance analysis
-- Revenue forecasting
-- Spend optimization analysis
+- calculate ROI and P&L,
+- compare device performance,
+- analyze monthly trends,
+- identify high-cost low-return campaigns,
+- and visualize campaign efficiency.
 
 ---
 
 # 📊 R Analytics
 
-## R Focus Areas
-- Statistical ROI analysis
-- Budget efficiency modeling
-- Revenue trend analysis
-- Campaign performance reporting
+R can be used to:
+
+- summarize campaign performance,
+- compare conversion rates by category,
+- calculate statistical differences between campaign groups,
+- and evaluate revenue impact.
 
 ---
 
 # 📣 SEO & SEM Analysis
 
-## SEO Focus Areas
-- Organic traffic optimization
-- Keyword ranking analysis
-- SEO revenue contribution
-- Landing page performance
+## SEM Focus
 
-## SEM Focus Areas
-- Paid search performance
-- CPC optimization
-- CPA reduction
-- Campaign budget allocation
+This project is strongly aligned with **SEM / paid advertising analytics**.
 
-## SEO/SEM Recommendations
-- Increase SEO investment for high-converting keywords.
-- Shift SEM spend toward branded and high-intent campaigns.
-- Reduce spend on underperforming paid social campaigns.
-- Improve landing page quality scores.
-- Optimize retargeting campaigns for abandoned users.
+Key SEM analysis areas:
 
----
+- CPC efficiency
+- CTR performance
+- conversion rate
+- revenue impact
+- campaign cost
+- profit/loss
+- ad category performance
 
-# 📈 Executive Reporting
+## SEM Recommendations
 
-This project includes:
-- Executive PowerPoint presentation
-- PDF business report
-- KPI workbook
-- ROI dashboard previews
-- Stakeholder-ready business recommendations
-
----
-
-# 📊 Dashboard Features
-
-✔ ROI KPI cards  
-✔ ROAS tracking  
-✔ Budget allocation analysis  
-✔ Revenue attribution reporting  
-✔ Campaign performance visualization  
-✔ SEO and SEM analysis  
-✔ Conversion performance tracking  
-
----
-
-# 🚀 Business Recommendations
-
-## Budget Optimization
-- Increase investment in high-performing channels.
-- Reduce spend on campaigns with low ROI.
-- Expand SEO investment to lower long-term acquisition costs.
-
-## Campaign Optimization
-- Improve paid search targeting.
-- Optimize ad copy and landing page alignment.
-- Focus on high-converting customer segments.
-
-## Revenue Growth
-- Improve customer retention strategies.
-- Increase conversion optimization testing.
-- Expand high-performing acquisition campaigns.
+- Lower bids on ad categories with poor conversion performance.
+- Increase budget only for campaigns with positive P&L.
+- Test new ad copy for Coupon and Promo campaigns.
+- Improve landing pages for high-click campaigns.
+- Track revenue per click and conversion value, not just clicks.
 
 ---
 
@@ -246,25 +243,25 @@ This project includes:
 
 | Category | Tools |
 |---|---|
-| BI & Visualization | Power BI, Tableau |
-| Analytics | Python, R, SQL |
-| Spreadsheet Reporting | Excel |
-| Reporting | PowerPoint, PDF |
-| Marketing Analytics | SEO, SEM |
+| Dashboarding | Tableau |
+| Analytics | SQL, Python, R |
+| Reporting | Excel, PowerPoint, PDF |
+| Marketing | SEM, Paid Ads, ROI Analysis |
+| Business Intelligence | KPI Dashboarding |
 
 ---
 
 # 🎯 Skills Demonstrated
 
 - Marketing Analytics
-- ROI Optimization
-- Budget Allocation Analysis
-- SEO Analytics
-- SEM Analysis
-- Dashboard Design
-- KPI Reporting
-- SQL Analysis
-- Python Analytics
+- SEM Analytics
+- Paid Ads Reporting
+- Campaign Performance Analysis
+- ROI Analysis
+- Revenue Impact Analysis
+- KPI Dashboarding
+- Device Performance Analysis
+- Ad Category Analysis
 - Executive Reporting
 
 ---
@@ -273,11 +270,11 @@ This project includes:
 
 - Marketing Analyst
 - Digital Marketing Analyst
+- SEM Analyst
+- Paid Media Analyst
 - Performance Marketing Analyst
 - Growth Analyst
-- Ecommerce Analyst
 - BI Analyst
-- Product Analyst
 
 ---
 
@@ -285,13 +282,13 @@ This project includes:
 
 ## Jamie Christian
 
-- GitHub: [JamieChristian22 GitHub](https://github.com/JamieChristian22?utm_source=chatgpt.com)
-- Main Portfolio: [Marketing Analytics Portfolio](https://github.com/JamieChristian22/marketing-analytics-portfolio?utm_source=chatgpt.com)
+- GitHub: https://github.com/JamieChristian22
+- Main Portfolio: https://github.com/JamieChristian22/marketing-analytics-portfolio
 
 ---
 
 <div align="center">
 
-## ⭐ If you found this project valuable, feel free to star the repository!
+## ⭐ Marketing Performance Dashboard — Ads ROI & Revenue Impact
 
 </div>
