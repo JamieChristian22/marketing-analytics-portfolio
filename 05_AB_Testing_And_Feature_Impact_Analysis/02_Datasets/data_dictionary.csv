@@ -1,0 +1,13 @@
+Column,Description
+Date,Transaction or activity date.
+Variant,A/B test experiment variant.
+Region,Geographic market segment.
+Device,User device type.
+Visitors,Project field used for dashboard analysis.
+Conversions,Project field used for dashboard analysis.
+Conversion_Rate,Conversions divided by visitors or sessions.
+Revenue,Revenue generated from conversions or purchases.
+Revenue_Per_User,Project field used for dashboard analysis.
+Avg_Session_Time_Min,Project field used for dashboard analysis.
+Bounce_Rate,Project field used for dashboard analysis.
+Retention_30_Day,Project field used for dashboard analysis.
