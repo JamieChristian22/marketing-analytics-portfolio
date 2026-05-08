@@ -1,0 +1,14 @@
+Column,Description
+Date,Transaction or activity date.
+Channel,Marketing acquisition channel.
+Device,User device type.
+Country,Project field used for dashboard analysis.
+Landing_Page_Visits,Project field used for dashboard analysis.
+Added_to_Cart,Project field used for dashboard analysis.
+Checkout_Started,Project field used for dashboard analysis.
+Purchased,Project field used for dashboard analysis.
+View_to_Cart_Rate,Project field used for dashboard analysis.
+Cart_to_Checkout_Rate,Project field used for dashboard analysis.
+Checkout_to_Purchase_Rate,Project field used for dashboard analysis.
+Overall_Conversion_Rate,Purchases divided by landing page visits.
+Revenue,Revenue generated from conversions or purchases.
