@@ -1,0 +1,16 @@
+Column,Description
+Date,Transaction or activity date.
+Year,Project field used for dashboard analysis.
+Month,Project field used for dashboard analysis.
+Category,Product or content category.
+Region,Geographic market segment.
+Seller_Tier,Project field used for dashboard analysis.
+Prime_Member,Project field used for dashboard analysis.
+Product_ID,Project field used for dashboard analysis.
+GMV,Gross merchandise value.
+Orders,Completed orders.
+Units_Sold,Project field used for dashboard analysis.
+AOV,Average order value.
+Marketplace_Revenue,Project field used for dashboard analysis.
+Take_Rate,Project field used for dashboard analysis.
+GMV_YoY_Pct,Project field used for dashboard analysis.
