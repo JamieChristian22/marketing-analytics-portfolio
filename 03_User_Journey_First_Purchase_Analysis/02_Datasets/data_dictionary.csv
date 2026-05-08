@@ -1,0 +1,13 @@
+Column,Description
+Customer_ID,Project field used for dashboard analysis.
+First_Visit_Date,Project field used for dashboard analysis.
+First_Medium,Project field used for dashboard analysis.
+Device,User device type.
+Country,Project field used for dashboard analysis.
+Sessions_Before_Purchase,Project field used for dashboard analysis.
+Median_Duration_Min,Project field used for dashboard analysis.
+Hours_Between_Visits,Project field used for dashboard analysis.
+Events_Before_Purchase,Project field used for dashboard analysis.
+Quantity_First_Purchase,Project field used for dashboard analysis.
+First_Purchase_Revenue,Project field used for dashboard analysis.
+Retained_30_Days,Project field used for dashboard analysis.

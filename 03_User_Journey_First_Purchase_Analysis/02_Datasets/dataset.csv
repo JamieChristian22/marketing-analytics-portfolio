@@ -1,0 +1,181 @@
+Customer_ID,First_Visit_Date,First_Medium,Device,Country,Sessions_Before_Purchase,Median_Duration_Min,Hours_Between_Visits,Events_Before_Purchase,Quantity_First_Purchase,First_Purchase_Revenue,Retained_30_Days
+C949765,2026-01-01,social,Tablet,South America,7,29,40,67,3,119,0
+C310737,2026-01-02,social,Desktop,North America,5,28,36,54,1,161,1
+C492261,2026-01-03,direct,Desktop,South America,1,24,25,57,4,170,0
+C506170,2026-01-04,direct,Desktop,South America,5,65,18,153,4,175,0
+C472944,2026-01-05,cpc,Desktop,Europe,8,26,33,50,5,172,0
+C779126,2026-01-06,cpc,Desktop,Europe,3,62,11,70,2,79,1
+C526031,2026-01-07,direct,Tablet,South America,3,38,68,72,4,146,0
+C156025,2026-01-08,social,Tablet,South America,7,60,50,74,5,51,1
+C210895,2026-01-09,direct,Mobile,North America,6,32,12,94,5,159,1
+C637712,2026-01-10,cpc,Tablet,Asia,8,20,14,150,3,162,0
+C274021,2026-01-11,direct,Mobile,South America,8,65,14,79,4,29,0
+C846900,2026-01-12,email,Desktop,North America,8,59,30,114,2,78,1
+C263546,2026-01-13,direct,Tablet,South America,2,41,7,25,1,169,1
+C734404,2026-01-14,email,Tablet,Asia,8,23,52,83,2,45,1
+C223123,2026-01-15,cpc,Tablet,Asia,2,18,70,96,1,79,1
+C112115,2026-01-16,organic,Desktop,Europe,8,64,22,65,5,168,1
+C306307,2026-01-17,referral,Desktop,Asia,5,54,23,69,5,54,1
+C291506,2026-01-18,direct,Tablet,Asia,2,40,37,100,4,131,0
+C558681,2026-01-19,referral,Tablet,South America,4,36,3,146,4,145,1
+C826706,2026-01-20,direct,Tablet,Asia,4,9,51,67,5,173,0
+C961713,2026-01-21,referral,Mobile,Europe,7,23,14,34,4,103,0
+C599484,2026-01-22,email,Desktop,North America,1,53,60,26,3,161,0
+C738260,2026-01-23,organic,Desktop,North America,4,48,21,16,2,119,1
+C777339,2026-01-24,cpc,Desktop,North America,6,49,24,133,5,28,0
+C414419,2026-01-25,cpc,Mobile,Asia,7,48,38,24,1,157,1
+C625738,2026-01-26,organic,Desktop,Europe,2,60,71,101,2,36,0
+C846815,2026-01-27,social,Tablet,South America,4,53,18,139,3,28,0
+C581518,2026-01-28,organic,Mobile,Europe,4,17,31,21,3,176,0
+C826347,2026-01-29,referral,Desktop,South America,6,45,57,85,3,160,0
+C963501,2026-01-30,social,Mobile,Asia,4,16,40,17,3,83,0
+C332932,2026-01-31,referral,Tablet,Asia,4,19,48,85,3,87,1
+C852234,2026-02-01,social,Mobile,South America,7,13,33,81,2,142,1
+C901835,2026-02-02,referral,Mobile,Europe,2,39,69,114,1,180,0
+C830109,2026-02-03,direct,Desktop,South America,7,53,69,112,5,76,0
+C598574,2026-02-04,organic,Desktop,Europe,3,11,49,87,2,36,1
+C562297,2026-02-05,social,Desktop,Europe,4,43,26,71,1,95,1
+C802954,2026-02-06,email,Desktop,Asia,1,54,67,42,1,137,0
+C578711,2026-02-07,organic,Desktop,South America,8,33,67,139,4,141,0
+C673104,2026-02-08,direct,Tablet,Asia,1,65,64,110,1,82,1
+C428235,2026-02-09,referral,Desktop,North America,8,34,17,50,3,180,1
+C359216,2026-02-10,email,Mobile,Asia,8,28,67,155,2,89,0
+C656410,2026-02-11,organic,Mobile,North America,6,10,40,20,1,130,0
+C487274,2026-02-12,email,Desktop,North America,4,16,11,132,1,81,0
+C826240,2026-02-13,email,Desktop,North America,7,23,65,20,3,85,1
+C895273,2026-02-14,social,Desktop,Europe,7,37,18,149,4,63,0
+C838150,2026-02-15,social,Mobile,Asia,8,29,15,115,4,51,1
+C765555,2026-02-16,referral,Mobile,Europe,1,22,42,70,1,170,0
+C675592,2026-02-17,organic,Desktop,South America,2,15,2,33,4,163,1
+C230362,2026-02-18,cpc,Desktop,Asia,7,41,63,39,4,57,1
+C794063,2026-02-19,email,Tablet,Asia,3,19,21,58,3,114,1
+C349047,2026-02-20,organic,Mobile,North America,5,37,31,116,4,113,0
+C591691,2026-02-21,direct,Mobile,South America,5,37,51,34,1,129,1
+C132895,2026-02-22,email,Mobile,Europe,6,47,57,29,1,91,1
+C272779,2026-02-23,cpc,Desktop,South America,4,45,21,28,1,137,0
+C647419,2026-02-24,referral,Mobile,Asia,8,26,50,107,2,114,0
+C654625,2026-02-25,social,Tablet,North America,4,61,43,61,4,104,1
+C144543,2026-02-26,email,Mobile,North America,4,46,71,119,4,163,0
+C859493,2026-02-27,cpc,Tablet,Europe,3,35,34,107,1,69,1
+C652352,2026-02-28,direct,Mobile,North America,8,52,68,137,5,128,0
+C459059,2026-03-01,email,Mobile,North America,2,22,52,21,2,146,0
+C559947,2026-03-02,cpc,Mobile,Asia,2,65,35,56,1,139,1
+C226974,2026-03-03,email,Mobile,Europe,5,39,54,148,2,106,1
+C284003,2026-03-04,referral,Mobile,Europe,7,17,56,148,1,52,0
+C560862,2026-03-05,referral,Desktop,Europe,7,14,25,58,4,147,0
+C470295,2026-03-06,email,Mobile,South America,2,54,17,45,5,110,0
+C555181,2026-03-07,direct,Tablet,Europe,3,19,39,153,2,176,0
+C269449,2026-03-08,direct,Tablet,South America,7,52,33,86,2,54,1
+C762009,2026-03-09,direct,Desktop,South America,2,15,37,60,5,99,0
+C374427,2026-03-10,email,Tablet,Europe,6,25,6,92,4,77,1
+C917650,2026-03-11,organic,Tablet,Asia,8,62,62,20,2,157,0
+C367340,2026-03-12,social,Desktop,North America,5,32,68,57,5,164,0
+C898219,2026-03-13,organic,Tablet,Asia,3,44,59,69,2,31,0
+C701859,2026-03-14,social,Mobile,North America,1,42,19,132,2,52,1
+C969893,2026-03-15,cpc,Desktop,Asia,7,11,16,134,2,85,0
+C504908,2026-03-16,direct,Mobile,Asia,8,25,66,96,5,99,1
+C995134,2026-03-17,organic,Mobile,Asia,2,20,30,51,1,165,1
+C245257,2026-03-18,email,Tablet,South America,5,42,17,124,2,136,1
+C780176,2026-03-19,email,Desktop,North America,5,46,25,31,5,50,0
+C641443,2026-03-20,referral,Tablet,Europe,2,64,32,151,5,74,1
+C115387,2026-03-21,social,Mobile,South America,1,30,51,159,4,160,1
+C785881,2026-03-22,cpc,Mobile,South America,7,27,7,100,5,58,1
+C854342,2026-03-23,cpc,Tablet,North America,7,42,28,153,5,98,1
+C204314,2026-03-24,email,Mobile,South America,3,19,37,88,5,81,1
+C413683,2026-03-25,email,Mobile,Europe,1,47,13,48,5,159,0
+C636846,2026-03-26,cpc,Tablet,Asia,8,53,71,62,3,132,0
+C480725,2026-03-27,referral,Mobile,Asia,7,64,51,158,4,44,1
+C151428,2026-03-28,cpc,Tablet,Europe,5,53,60,123,1,152,1
+C602148,2026-03-29,direct,Mobile,Europe,2,15,72,63,1,153,1
+C767336,2026-03-30,email,Desktop,Asia,7,26,52,84,3,150,0
+C103744,2026-03-31,direct,Mobile,Asia,7,49,14,86,4,152,1
+C525986,2026-04-01,organic,Mobile,South America,3,40,30,94,2,129,0
+C129835,2026-04-02,referral,Tablet,Europe,2,36,21,36,4,176,1
+C905008,2026-04-03,direct,Desktop,South America,8,54,4,158,5,146,0
+C398555,2026-04-04,organic,Tablet,North America,8,25,60,124,2,150,1
+C756110,2026-04-05,cpc,Desktop,Europe,3,52,9,135,4,39,1
+C162434,2026-04-06,referral,Mobile,North America,8,27,47,126,1,169,0
+C540948,2026-04-07,organic,Tablet,Europe,1,21,59,107,4,135,1
+C715667,2026-04-08,cpc,Tablet,Asia,4,15,45,84,5,124,1
+C513745,2026-04-09,referral,Mobile,South America,7,58,64,156,4,88,0
+C991597,2026-04-10,social,Mobile,Asia,8,61,70,120,1,60,1
+C991986,2026-04-11,email,Mobile,North America,6,59,32,159,4,168,0
+C517229,2026-04-12,direct,Mobile,North America,6,25,16,64,1,33,0
+C189917,2026-04-13,referral,Tablet,North America,5,44,5,78,1,93,0
+C810536,2026-04-14,direct,Mobile,South America,5,17,43,102,1,180,1
+C391364,2026-04-15,cpc,Tablet,South America,2,45,25,39,2,88,0
+C288064,2026-04-16,direct,Mobile,Asia,6,61,8,36,2,112,0
+C456595,2026-04-17,referral,Mobile,Asia,1,26,26,45,4,164,1
+C883440,2026-04-18,email,Desktop,Asia,5,31,26,43,1,91,1
+C326939,2026-04-19,organic,Mobile,North America,6,9,3,40,4,59,1
+C891712,2026-04-20,cpc,Mobile,Asia,3,8,25,152,2,31,0
+C212285,2026-04-21,social,Tablet,North America,3,65,63,130,5,29,1
+C375832,2026-04-22,direct,Tablet,South America,1,52,33,96,4,49,1
+C906040,2026-04-23,social,Tablet,Asia,5,23,17,134,2,152,1
+C793153,2026-04-24,organic,Mobile,South America,2,34,17,126,1,124,0
+C485226,2026-04-25,social,Tablet,Asia,2,10,38,58,1,71,1
+C186153,2026-04-26,social,Desktop,North America,3,54,25,93,4,65,0
+C751713,2026-04-27,email,Mobile,South America,6,33,32,121,3,73,0
+C785697,2026-04-28,social,Tablet,Asia,8,10,55,150,4,173,0
+C939947,2026-04-29,email,Desktop,North America,8,24,10,25,1,95,1
+C586002,2026-04-30,email,Desktop,North America,7,39,17,92,3,150,0
+C219519,2026-05-01,social,Mobile,Europe,5,60,57,95,2,136,0
+C747159,2026-05-02,organic,Tablet,North America,2,42,3,106,1,145,1
+C818486,2026-05-03,referral,Desktop,North America,7,12,70,56,4,79,1
+C642192,2026-05-04,referral,Tablet,Europe,6,35,65,92,2,81,0
+C112038,2026-05-05,referral,Tablet,North America,7,32,31,139,1,76,1
+C537236,2026-05-06,direct,Mobile,South America,5,13,70,31,5,54,0
+C904591,2026-05-07,organic,Tablet,South America,7,38,27,30,3,141,1
+C822030,2026-05-08,direct,Mobile,Asia,3,11,72,146,1,133,1
+C653451,2026-05-09,cpc,Mobile,Asia,2,19,61,112,1,57,0
+C832517,2026-05-10,organic,Tablet,Europe,7,12,27,51,2,100,1
+C413694,2026-05-11,direct,Desktop,South America,4,55,50,65,1,117,0
+C811813,2026-05-12,email,Mobile,Asia,8,14,72,25,4,139,0
+C309365,2026-05-13,referral,Desktop,South America,3,29,35,26,3,34,1
+C852620,2026-05-14,organic,Tablet,Asia,4,35,29,61,4,49,1
+C312990,2026-05-15,email,Desktop,Asia,6,29,24,76,4,45,0
+C181389,2026-05-16,organic,Desktop,South America,6,29,12,76,3,60,0
+C265427,2026-05-17,referral,Tablet,North America,3,54,46,72,4,159,0
+C492587,2026-05-18,referral,Tablet,South America,2,46,49,158,1,135,0
+C578546,2026-05-19,referral,Tablet,South America,2,41,67,25,2,143,0
+C108142,2026-05-20,referral,Tablet,Europe,7,31,6,41,2,68,0
+C887006,2026-05-21,social,Mobile,Europe,5,21,65,148,3,86,1
+C645227,2026-05-22,direct,Tablet,Europe,7,27,50,134,2,169,0
+C885791,2026-05-23,email,Tablet,North America,1,36,71,135,4,127,0
+C190700,2026-05-24,organic,Desktop,Europe,7,46,28,46,4,47,1
+C953903,2026-05-25,email,Tablet,Asia,5,18,16,56,3,57,1
+C505530,2026-05-26,cpc,Mobile,Asia,2,37,35,47,5,42,1
+C392762,2026-05-27,social,Desktop,Europe,4,20,38,115,1,130,0
+C656977,2026-05-28,cpc,Desktop,South America,4,14,57,19,1,178,1
+C268246,2026-05-29,email,Mobile,Asia,5,54,33,52,2,120,0
+C484072,2026-05-30,direct,Tablet,South America,4,36,28,51,5,149,0
+C286919,2026-05-31,referral,Mobile,Asia,8,43,51,23,3,80,1
+C124283,2026-06-01,email,Mobile,South America,7,45,25,28,3,36,0
+C976995,2026-06-02,organic,Mobile,North America,4,57,41,55,5,125,0
+C116898,2026-06-03,direct,Mobile,North America,3,8,5,27,3,56,0
+C812828,2026-06-04,organic,Tablet,Europe,5,37,8,156,1,60,1
+C850066,2026-06-05,referral,Desktop,South America,6,61,39,40,3,49,0
+C337663,2026-06-06,cpc,Desktop,South America,6,60,50,120,4,51,1
+C597059,2026-06-07,cpc,Desktop,Europe,3,9,68,48,3,176,0
+C911347,2026-06-08,email,Mobile,Asia,8,21,59,145,5,163,0
+C710910,2026-06-09,direct,Mobile,Europe,7,31,15,50,2,85,0
+C420294,2026-06-10,direct,Desktop,South America,2,9,6,131,4,173,1
+C207606,2026-06-11,social,Mobile,Asia,8,17,59,53,4,80,0
+C109615,2026-06-12,cpc,Tablet,South America,6,29,43,62,2,96,1
+C873073,2026-06-13,direct,Tablet,North America,6,15,13,69,3,81,1
+C737696,2026-06-14,cpc,Desktop,South America,8,14,33,57,4,173,0
+C256756,2026-06-15,email,Mobile,North America,7,50,30,26,5,80,1
+C876684,2026-06-16,cpc,Tablet,South America,2,50,20,144,3,145,0
+C762454,2026-06-17,direct,Mobile,Asia,3,38,55,104,5,58,1
+C970039,2026-06-18,email,Tablet,South America,1,60,53,46,3,124,0
+C390450,2026-06-19,organic,Tablet,North America,7,53,6,49,5,162,0
+C958305,2026-06-20,social,Tablet,South America,2,47,46,158,5,37,1
+C134362,2026-06-21,organic,Tablet,South America,5,10,37,87,3,150,0
+C320449,2026-06-22,direct,Desktop,Europe,6,22,11,34,1,173,0
+C719081,2026-06-23,email,Tablet,North America,2,28,71,48,1,95,1
+C192511,2026-06-24,referral,Desktop,Asia,2,32,31,48,5,130,0
+C894188,2026-06-25,cpc,Mobile,South America,5,19,20,132,3,97,1
+C792729,2026-06-26,social,Desktop,South America,2,31,47,46,1,26,0
+C454748,2026-06-27,cpc,Tablet,South America,6,30,41,37,3,28,0
+C847909,2026-06-28,referral,Tablet,Asia,3,58,69,110,2,65,1
+C794268,2026-06-29,email,Desktop,Europe,8,21,21,114,5,64,1
