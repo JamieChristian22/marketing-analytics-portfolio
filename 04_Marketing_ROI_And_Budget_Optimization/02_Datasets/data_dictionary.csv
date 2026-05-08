@@ -1,0 +1,15 @@
+Column,Description
+Date,Transaction or activity date.
+Channel,Marketing acquisition channel.
+Campaign,Project field used for dashboard analysis.
+Keyword_or_Audience,Project field used for dashboard analysis.
+Impressions,Project field used for dashboard analysis.
+Clicks,Project field used for dashboard analysis.
+Leads,Project field used for dashboard analysis.
+Customers,Project field used for dashboard analysis.
+Spend,Marketing spend for paid campaign activity.
+Revenue,Revenue generated from conversions or purchases.
+CPC,Project field used for dashboard analysis.
+CPA,Project field used for dashboard analysis.
+ROAS,Return on ad spend.
+ROI,Return on investment.
