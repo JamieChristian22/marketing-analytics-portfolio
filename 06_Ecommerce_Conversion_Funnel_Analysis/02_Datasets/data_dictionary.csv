@@ -1,0 +1,15 @@
+Column,Description
+Date,Transaction or activity date.
+YearMonth,Project field used for dashboard analysis.
+Country,Project field used for dashboard analysis.
+Category,Product or content category.
+Device_Type,User device type.
+Product_Views,Project field used for dashboard analysis.
+Add_to_Cart,Project field used for dashboard analysis.
+Checkout_Started,Project field used for dashboard analysis.
+Purchases,Project field used for dashboard analysis.
+View_to_Cart_Rate,Project field used for dashboard analysis.
+Cart_to_Checkout_Rate,Project field used for dashboard analysis.
+Checkout_to_Purchase_Rate,Project field used for dashboard analysis.
+Revenue,Revenue generated from conversions or purchases.
+Cart_Abandonment_Rate,Project field used for dashboard analysis.
