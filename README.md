@@ -10,12 +10,37 @@
 [![R](https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
 [![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![SEO](https://img.shields.io/badge/SEO-Optimization-34A853?style=for-the-badge)]()
-[![SEM](https://img.shields.io/badge/SEM-Paid%20Marketing-4285F4?style=for-the-badge)]()
-[![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-red?style=for-the-badge)]()
-[![A/B Testing](https://img.shields.io/badge/A%2FB-Testing-orange?style=for-the-badge)]()
+[![SEO](https://img.shields.io/badge/SEO-Optimization-34A853?style=for-the-badge)]
+[![SEM](https://img.shields.io/badge/SEM-Paid%20Marketing-4285F4?style=for-the-badge)]
+[![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-red?style=for-the-badge)]
+[![A/B Testing](https://img.shields.io/badge/A%2FB-Testing-orange?style=for-the-badge)]
 
 </div>
+
+---
+
+## Recruiter quick start: six marketing analytics projects
+
+Projects contain synthetic or illustrative business scenarios and supporting analytics artifacts. Open the project README first, then its source data and SQL/Python/R work, dashboard preview and executive report.
+
+| Project | Business question | Project and visual evidence |
+| --- | --- | --- |
+| [01 · Amazon marketplace analytics](01_Amazon_Marketplace_Analytics_Dashboard/README.md) | Which marketplace drivers explain sales and advertising performance? | [Dashboard preview](01_Amazon_Marketplace_Analytics_Dashboard/09_Dashboard_Previews/amazon_marketplace_dashboard_preview.png) · [SQL](01_Amazon_Marketplace_Analytics_Dashboard/03_SQL/advanced_queries.sql) |
+| [02 · Conversion funnel](02_Conversion_Funnel_Analytics/README.md) | Where is conversion friction concentrated? | [Dashboard preview](02_Conversion_Funnel_Analytics/09_Dashboard_Previews/conversion_funnel_dashboard_preview.png) · [Project overview](02_Conversion_Funnel_Analytics/01_README/README.md) |
+| [03 · First-purchase journey](03_User_Journey_First_Purchase_Analysis/README.md) | What prevents visitors from becoming first-time customers? | [Dashboard preview](03_User_Journey_First_Purchase_Analysis/09_Dashboard_Previews/user_journey_dashboard_preview.png) |
+| [04 · Marketing ROI and budget](04_Marketing_ROI_And_Budget_Optimization/README.md) | How should spend be allocated across channels? | [Dashboard preview](04_Marketing_ROI_And_Budget_Optimization/09_Dashboard_Previews/04_Marketing_ROI_And_Budget_Optimization.png) |
+| [05 · A/B testing and feature impact](05_AB_Testing_And_Feature_Impact_Analysis/README.md) | Is the difference meaningful, and what should the team do next? | [Dashboard preview](05_AB_Testing_And_Feature_Impact_Analysis/09_Dashboard_Previews/ab_testing_dashboard_preview.png) |
+| [06 · Ecommerce funnel](06_Ecommerce_Conversion_Funnel_Analysis/README.md) | Which funnel segments need the most attention? | [Dashboard preview](06_Ecommerce_Conversion_Funnel_Analysis/09_Dashboard_Previews/ecommerce_funnel_dashboard_preview.png) |
+
+### Interpretation and reproducibility
+
+- **Source versus visual:** inspect each project's datasets, Python/R scripts, SQL, workbooks, and preview images separately. A preview is not proof that a proprietary BI dashboard file is present.
+- **Results versus claims:** modeled or synthetic campaign impacts should be read as analytical scenarios, not real paid-campaign outcomes or verified customer testimonials. Materials named \`Testimonials_Results\` are case-study artifacts, not confirmed endorsements.
+- **Metric discipline:** distinguish conversion rate, funnel drop-off, CAC, ROAS, and incremental lift; define denominators and time ranges before comparing campaigns.
+- **Decision quality:** a recommended optimization should state its assumption, expected impact, guardrail and follow-up measurement plan.
+- **Navigation:** the unusual nested datasets path under Project 02 is retained for compatibility with existing files; use [its project README](02_Conversion_Funnel_Analytics/README.md) as the entry point.
+
+[Professional portfolio website](https://jamiechristian22.github.io/) · [GitHub profile](https://github.com/JamieChristian22) · [Support ongoing projects](https://github.com/sponsors/JamieChristian22)
 
 ---
 
