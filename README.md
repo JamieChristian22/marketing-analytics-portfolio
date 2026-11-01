@@ -4,16 +4,16 @@
 
 # Jamie Christian — Marketing Analytics Portfolio
 
-[![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
-[![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
-[![Python](https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![R](https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)](https://www.r-project.org/)
-[![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
-[![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel)
-[![SEO](https://img.shields.io/badge/SEO-Optimization-34A853?style=for-the-badge)]
-[![SEM](https://img.shields.io/badge/SEM-Paid%20Marketing-4285F4?style=for-the-badge)]
-[![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-red?style=for-the-badge)]
-[![A/B Testing](https://img.shields.io/badge/A%2FB-Testing-orange?style=for-the-badge)]
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)(https://powerbi.microsoft.com/)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-E97627?style=for-the-badge&logo=tableau&logoColor=white)(https://www.tableau.com/)
+![Python](https://img.shields.io/badge/Python-Analytics-3776AB?style=for-the-badge&logo=python&logoColor=white)(https://www.python.org/)
+![R](https://img.shields.io/badge/R-Statistics-276DC3?style=for-the-badge&logo=r&logoColor=white)(https://www.r-project.org/)
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-336791?style=for-the-badge&logo=postgresql&logoColor=white)(https://www.postgresql.org/)
+![Excel](https://img.shields.io/badge/Excel-Advanced%20Analytics-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)(https://www.microsoft.com/en-us/microsoft-365/excel)
+![SEO](https://img.shields.io/badge/SEO-Optimization-34A853?style=for-the-badge)
+![SEM](https://img.shields.io/badge/SEM-Paid%20Marketing-4285F4?style=for-the-badge)
+![Marketing Analytics](https://img.shields.io/badge/Marketing-Analytics-red?style=for-the-badge)
+![A/B Testing](https://img.shields.io/badge/A%2FB-Testing-orange?style=for-the-badge)
 
 </div>
 
