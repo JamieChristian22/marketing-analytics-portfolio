@@ -325,3 +325,7 @@ The projects simulate real-world analytics workflows used by:
 ## ⭐ If you found this portfolio valuable, feel free to star the repository!
 
 </div>
+
+## License and third-party materials
+
+See [LICENSE](LICENSE) for the repository license. Third-party code, datasets, images, and other assets retain their respective terms.
